@@ -4,10 +4,10 @@
 }
 
 .colour-border{
-  border: 3px solid green;
-  padding: 10px;
+  border: 3px solid rgba(128, 0, 85, 0.301);
+  padding: 20px;
 }
 
 .header{
-  padding: 10px;
+  padding: 30px;
 }
