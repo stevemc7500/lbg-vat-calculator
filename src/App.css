@@ -13,14 +13,14 @@
 
 .field{
   width: 300px;
-  padding-bottom: 10px;
+  padding-bottom: 20px;
 }
 
 .colour-border{
-  border: 10px ridge rgba(9, 25, 241, 0.301);
+  border: 5px solid rgba(9, 25, 241, 0.301);
   padding: 20px;
 }
 
 .header{
-  padding: 30px;
+  padding: 10px;
 }
